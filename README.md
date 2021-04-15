@@ -1,0 +1,2 @@
+# dogetrader
+daytrading doge bot
